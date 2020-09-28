@@ -3,7 +3,7 @@ Pollux Media Library
 
 Web application for managing my books and movies (DVD, BluRay).
 
-This Repo containst the Frontend, which is created as a React SPA using the Pollux API.
+This Repo contains the Frontend, which is created as a React SPA using the Pollux API.
 
 ---
 
